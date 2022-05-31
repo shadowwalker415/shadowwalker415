@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shadowwalker415
-- 👀 I’m interested in Python Programming
-- 🌱 I’m a begginer
-- 💞️ I’m looking to learn from others who are already professionals and i'm looking for a mentor ...
+- 👀 Software engineering student
 - 📫 You can add me on facebook Nkwelle Kwo 
 
 <!---
